@@ -1,0 +1,9 @@
+folium
+numpy
+pandas
+plotly
+qiskit
+qiskit-aer
+scipy
+streamlit
+streamlit-folium
